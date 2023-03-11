@@ -1,4 +1,4 @@
-# Install script for directory: E:/esp/ESP_IDF/Gpio
+# Install script for directory: E:/esp/ESP32_IDF/gpio
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("E:/esp/ESP_IDF/Gpio/build/esp-idf/cmake_install.cmake")
+  include("E:/esp/ESP32_IDF/gpio/build/esp-idf/cmake_install.cmake")
 
 endif()
 
@@ -46,5 +46,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "E:/esp/ESP_IDF/Gpio/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "E:/esp/ESP32_IDF/gpio/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

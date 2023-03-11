@@ -1,4 +1,4 @@
-# Install script for directory: E:/esp/ESP_IDF/Gpio/main
+# Install script for directory: E:/esp/ESP32_IDF/gpio/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("E:/esp/ESP_IDF/Gpio/build/esp-idf/esp_system/port/soc/esp32/cmake_install.cmake")
+  include("E:/esp/ESP32_IDF/gpio/build/esp-idf/esp_system/port/soc/esp32/cmake_install.cmake")
 
 endif()
 

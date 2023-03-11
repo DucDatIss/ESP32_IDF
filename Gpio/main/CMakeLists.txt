@@ -1,2 +1,2 @@
-idf_component_register(SRCS "Gpio.c"
+idf_component_register(SRCS "gpio.c"
                     INCLUDE_DIRS ".")
