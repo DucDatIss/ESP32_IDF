@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/esp/my_esp32_idf/gpio/input_output_basic/build/CMakeFiles/bootloader
+E:/esp/my_esp32_idf/gpio/input_output_basic/build/CMakeFiles/bootloader.rule
+E:/esp/my_esp32_idf/gpio/input_output_basic/build/CMakeFiles/bootloader-complete.rule
+E:/esp/my_esp32_idf/gpio/input_output_basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/esp/my_esp32_idf/gpio/input_output_basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/esp/my_esp32_idf/gpio/input_output_basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/esp/my_esp32_idf/gpio/input_output_basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+E:/esp/my_esp32_idf/gpio/input_output_basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/esp/my_esp32_idf/gpio/input_output_basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/esp/my_esp32_idf/gpio/input_output_basic/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

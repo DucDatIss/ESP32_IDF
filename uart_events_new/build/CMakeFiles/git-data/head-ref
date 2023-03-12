@@ -1,4 +1,0 @@
-0000000000000000000000000000000000000000 374913aa5ef3fc2d69c46134c8bb705d25acdfc9 unknown <NGUYEN DUC DAT K59@LAPTOP-41I2N5FT.(none)> 1674894952 +0700	clone: from https://github.com/DucDatIss/ESP_IDF.git
-374913aa5ef3fc2d69c46134c8bb705d25acdfc9 0d00ac8150596a99e7cc4d6ab747a7e8bf62a6e8 DucDatIss <ducdatbkhn12@gmail.com> 1674895680 +0700	commit: blink led esp32
-0d00ac8150596a99e7cc4d6ab747a7e8bf62a6e8 b27c9c34ba31cef07ff956c58dcde12f30ccc1c1 DucDatIss <ducdatbkhn12@gmail.com> 1674895778 +0700	pull: Merge made by the 'ort' strategy.
-b27c9c34ba31cef07ff956c58dcde12f30ccc1c1 0ba7685d80e7c3e28a05587f265f048f036ed17c DucDatIss <ducdatbkhn12@gmail.com> 1674895982 +0700	commit: update blink
