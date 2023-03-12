@@ -69,7 +69,7 @@ void Notify_System_Run(void)
     static int cout = 0;
 
     cout++;
-    if(cout==1000)
+    if(cout==100)
     {
         cout=0;
     }
