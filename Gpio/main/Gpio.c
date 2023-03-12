@@ -57,17 +57,27 @@ void Gpio_State_Led(uint8_t state)
     if (state == PRESSED)
     {
         gpio_set_level(LED_PIN_1, LED_ON);
-        gpio_set_level(LED_PIN_2, LED_OFF);
     }
     else if (state == RELEASED)
     {
         gpio_set_level(LED_PIN_1, LED_OFF);
-        gpio_set_level(LED_PIN_2, LED_ON);
     }
 }
 
 void Notify_System_Run(void)
 {
+    static int cout = 0;
+
+    cout++;
+    if(cout==1000)
+    {
+        cout=0;
+    }
+    else
+    {
+        return;
+    }
+
     if(stateSystem == 1)
     {
         stateSystem = 0;
